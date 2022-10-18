@@ -1,0 +1,17 @@
+
+header,
+main {
+    border: 9px red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lampada {
+    border: red;
+}
+button {
+    padding: 2px;
+    color: black;
+    background-color: white;
+    width: 80px;
+}
